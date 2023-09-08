@@ -25,7 +25,7 @@ if($conn->affected_rows !=1){
 }else{ 
     $registro_error = "ambos campos deben ser llenados";
 }
-print "Registro Exitoso!!"
+
 }
 
 ?>
